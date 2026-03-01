@@ -7,6 +7,6 @@ change from main
 
 change after 2nd commit
 
-from second_main
+from second_ma
 
 after merge first commit from main
