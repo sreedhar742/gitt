@@ -1,0 +1,12 @@
+first commit from main
+
+after first commit from the main
+
+from second_main
+change from main 
+
+change after 2nd commit
+
+from second_main
+
+after merge first commit from main
